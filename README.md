@@ -1,16 +1,42 @@
-# readinglist
+# 📚 Reading List App
 
-A new Flutter project.
+A simple and elegant reading list app built with Flutter. This app helps users track books they want to read, have read, and discover more about each book with a single tap.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+-  **Mark books as read/unread** via checkboxes.
+-  **Local data persistence** using `SharedPreferences`.
+-  **Quick search** for any book title via Google.
+-  **Filter your list** by All, Active (unread), and Completed (read).
+-  **Beautiful UI** with cards, spacing, and themes.
+-  **Dark mode toggle**.
+-  **Edit book titles** with a long press.
+  
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/reading-list-app.git
+   cd reading-list-app
+    ```
+2. Install dependencies
+3. Run the app using flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📸 Screenshots
+
+### 🔆 Light Mode with Theme Toggle
+![Light Mode and Toggle](screens/lightmodeandtoggle.jpeg)
+
+### 🌙 Dark Mode and Filtered List
+![Dark Mode and List](screens/darkmodeandlist.jpeg)
+
+### ✏️ Long Press to Edit
+![Long Press to Edit](screens/longpresstoedit.jpeg)
+
+
+
+Made with ❤️ using Flutter.
+  
+  
