@@ -30,7 +30,7 @@ A simple and elegant reading list app built with Flutter. This app helps users t
 ![Light Mode and Toggle](screens/lightmodeandtoggle.jpeg)
 
 ### 🌙 Dark Mode and Filtered List
-![Dark Mode and List](screens/darkmodeandlist.jpeg)
+![Dark Mode and List](screens/darkmodeandlist(1).jpeg)
 
 ### ✏️ Long Press to Edit
 ![Long Press to Edit](screens/longpresstoedit.jpeg)
